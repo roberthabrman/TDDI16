@@ -1,0 +1,2 @@
+Implementera toss i MinPQ och byt ut anropen pq.insert till pq.toss i
+Collisionsystem.cc.
